@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+}
+
+nav {
+
+    display: flex;
+    justify-content: space-between;
+    padding: 2vh 2vh;
+    background-color: #884a39;
+}
+
+nav img {
+
+    width: 78vh;
+    position:relative;
+    right: 24px;
+
+}
+
+.menu {
+    display: flex;
+    margin-right: 48px;
+}
+
+a {
+    display: flex;
+    width: 12ch;
+    justify-content: center;
+    text-decoration: none;
+    align-items: center;
+    color: #fae5c6;
+}
+
+main{
+    background-image: url(https://play-lh.googleusercontent.com/nqeHsms5bAClO5UYYctuKW4xr7UMTeTlZPD_zJB48ZkgAHwd1gzt8lGyuaVkJKZl_c4=w2560-h1440-rw);
+    height: 89.2vh;
+}
+
+h1{
+    margin:0;
+}
